@@ -1,0 +1,6 @@
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\bin\Debug\netcoreapp3.1\publish\DotNetCLIWalkthrough.exe
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\bin\Debug\netcoreapp3.1\publish\DotNetCLIWalkthrough.dll
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\bin\Debug\netcoreapp3.1\publish\DotNetCLIWalkthrough.deps.json
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\bin\Debug\netcoreapp3.1\publish\DotNetCLIWalkthrough.runtimeconfig.json
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\bin\Debug\netcoreapp3.1\publish\DotNetCLIWalkthrough.pdb
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\bin\Debug\netcoreapp3.1\publish\Newtonsoft.Json.dll

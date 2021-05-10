@@ -1,0 +1,15 @@
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\bin\Debug\netcoreapp3.1\DotNetCLIWalkthrough.exe
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\bin\Debug\netcoreapp3.1\DotNetCLIWalkthrough.deps.json
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\bin\Debug\netcoreapp3.1\DotNetCLIWalkthrough.runtimeconfig.json
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\bin\Debug\netcoreapp3.1\DotNetCLIWalkthrough.runtimeconfig.dev.json
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\bin\Debug\netcoreapp3.1\DotNetCLIWalkthrough.dll
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\bin\Debug\netcoreapp3.1\DotNetCLIWalkthrough.pdb
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\obj\Debug\netcoreapp3.1\DotNetCLIWalkthrough.csprojAssemblyReference.cache
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\obj\Debug\netcoreapp3.1\DotNetCLIWalkthrough.AssemblyInfoInputs.cache
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\obj\Debug\netcoreapp3.1\DotNetCLIWalkthrough.AssemblyInfo.cs
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\obj\Debug\netcoreapp3.1\DotNetCLIWalkthrough.csproj.CoreCompileInputs.cache
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\obj\Debug\netcoreapp3.1\DotNetCLIWalkthrough.csproj.CopyComplete
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\obj\Debug\netcoreapp3.1\DotNetCLIWalkthrough.dll
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\obj\Debug\netcoreapp3.1\DotNetCLIWalkthrough.pdb
+C:\Users\Lntinfotech\Documents\DotNet\GannonWalk\DotNetCLIWalkthrough\obj\Debug\netcoreapp3.1\DotNetCLIWalkthrough.genruntimeconfig.cache
